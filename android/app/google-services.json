@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845416660457",
+    "project_id": "mesync-5e198",
+    "storage_bucket": "mesync-5e198.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845416660457:android:0ab28a99771b1be0859f78",
+        "android_client_info": {
+          "package_name": "example.msync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845416660457-9e8rvt1kkb90dec16og04hcj3jhv0r1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBViydL9ZVf-QG8_yfcXzvatYc8TYChKkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845416660457-9e8rvt1kkb90dec16og04hcj3jhv0r1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
