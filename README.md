@@ -1,6 +1,6 @@
 # msync
 
-A new Flutter application.
+My video call chat app with jitsi_meet & flutter.
 
 ## Getting Started
 
